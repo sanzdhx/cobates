@@ -1,0 +1,41 @@
+h2 {
+    color: antiquewhite;
+}
+.hurufunik {
+    font-family: Cambria;
+    color: bisque;
+    background-color: violet;
+}
+.kotak {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 5px solid #26c1ff;
+    margin: 20px;
+    background-color: bisque;
+}
+.block-cont {
+    display: block;
+    background-color: violet;
+    border: 3px solid sandybrown;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+.inline-cont {
+    display: inline;
+    background-color: thistle;
+    padding: 5px;
+    margin-right: 10px;
+}
+.inline-block-cont {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: steelblue;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+footer {
+    text-align: center;
+    background-color: wheat; /* bg color */
+}
